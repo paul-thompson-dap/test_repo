@@ -9,6 +9,8 @@ This is a big lovely test!
 
 This is a test!
 
+Hooray!
+
     10 PRINT "I Love Tests!"
     20 GOTO 10
 
