@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 # encoding: UTF-8
 
+# A comment is here!
 def fizz_buzz(input_num)
 	mod3 = input_num % 3 == 0
 	mod5 = input_num % 5 == 0
